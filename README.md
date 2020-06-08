@@ -34,8 +34,8 @@ Example:
 ```js
 {
     name: "Kristyn", 
-    age: 98, email: 
-    "kristyn@foo.bar"
+    age: 98,
+    email: "kristyn@foo.bar"
 }
 ```
 
